@@ -8,5 +8,4 @@ RUN mkdir ~/.gnupg && echo "disable-ipv6" >> ~/.gnupg/dirmngr.conf && \
         curl -sSL https://get.rvm.io | bash -s stable 
         
 
-
 #CMD ["/bin/bash", "-c", "top"]
